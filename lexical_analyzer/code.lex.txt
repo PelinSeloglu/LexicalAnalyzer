@@ -1,0 +1,10 @@
+Identifier(hi)
+Operator(:=)
+Identifier(hello)
+Operator(+)
+IntConst(25)
+EndOfLineIdentifier(hello)
+Operator(++)
+EndOfLine"ali ata bak.": This is a string.
+EndOfLineKeyword(while)
+EndOfLine

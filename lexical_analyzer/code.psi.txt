@@ -1,0 +1,4 @@
+hi:=hello+25; (*addition *) 
+hello++; (*increment*) 
+"Ali ata bak.";
+while;
